@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Vladimír Zdražil.
 
-<img alt="" src="./coder.png" height="160" width="160">
+<img alt="" src="./programmer.png" height="160" width="160">
 
 Welcome to my GitHub page! If you fancy seeing more of me then:
 
