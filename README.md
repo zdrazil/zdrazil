@@ -1,4 +1,8 @@
-Hi 👋, I'm Vladimír Zdražil <img alt="" align="right" src="./coder.png" height="180" width="180">. Welcome to my GitHub page! If you fancy seeing more of me then:
+## Hi 👋, I'm Vladimír Zdražil.
+
+<img alt="" src="./coder.png" height="160" width="160">
+
+Welcome to my GitHub page! If you fancy seeing more of me then:
 
 - Check out my [blog](https://vladimirzdrazil.com/) 📝
 - Here's my [RSS feed](https://vladimirzdrazil.com/) 📝🔔
@@ -154,6 +158,7 @@ Hi 👋, I'm Vladimír Zdražil <img alt="" align="right" src="./coder.png" heig
 ### My latest blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Binary search debugging: Simplify your debugging process](https://vladimirzdrazil.com/posts/binary-search-debugging/)
 - [Why Object.keys doesn&#39;t and shouldn&#39;t return &lpar;keyof T&rpar;[]](https://vladimirzdrazil.com/posts/object-keys-keyof-t/)
 - [The AHA principle: Avoid hasty abstractions](https://vladimirzdrazil.com/posts/aha-principle/)
