@@ -1,6 +1,6 @@
 Hi 👋, I'm Vladimír Zdražil. Welcome to my GitHub page! If you fancy seeing more of me then:
 
-- Check out my [ blog](https://vladimirzdrazil.com/) 📝
+- Check out my [blog](https://vladimirzdrazil.com/) 📝
 - Here's my [RSS feed](https://vladimirzdrazil.com/) 📝🔔
 - Follow me on [Twitter](https://twitter.com/vlzdr) 💬
 - Connect me on [LinkedIn](https://www.linkedin.com/in/vladimirzdrazil) 👔
@@ -151,7 +151,7 @@ Hi 👋, I'm Vladimír Zdražil. Welcome to my GitHub page! If you fancy seeing 
   </a>
 </p>
 
-## My latest blogs posts
+### My latest blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
