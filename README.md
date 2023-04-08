@@ -5,7 +5,7 @@
 If you fancy seeing more of me then:
 
 - Check out my [blog](https://vladimirzdrazil.com/) 📝
-- Here's my [RSS feed](https://vladimirzdrazil.com/) 📝🔔
+- Here's my [RSS feed](https://vladimirzdrazil.com/index.xml) 📝🔔
 - Follow me on [Twitter](https://twitter.com/vlzdr) 💬
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/vladimirzdrazil) 👔
 
