@@ -2,7 +2,7 @@
 
 <img alt="" src="./programmer.png" height="160" width="160">
 
-If you fancy seeing more of me then:
+If you fancy seeing more from me then:
 
 - Check out my [blog](https://vladimirzdrazil.com/) 📝
 - Here's my [RSS feed](https://vladimirzdrazil.com/index.xml) 📝🔔
