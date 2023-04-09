@@ -20,6 +20,8 @@ If you fancy seeing more from me then:
 - [Git tips and tricks](https://vladimirzdrazil.com/posts/git-tips-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
+[Click here to see more…](https://vladimirzdrazil.com/)
+
 <h3 align="left">Languages, libraries and tools I use on a daily basis</h3>
 
 <p align="left">
