@@ -12,11 +12,11 @@ If you fancy seeing more from me then:
 ### My latest blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL: Squashing commits that have a merge-commit in between them](https://vladimirzdrazil.com/til/git/squashing-commits-with-merge-commit-in-between-them/)
 - [Deep and shallow modules: module design for reduced complexity](https://vladimirzdrazil.com/posts/deep-shallow-modules/)
 - [Binary search debugging: Simplify your debugging process](https://vladimirzdrazil.com/posts/binary-search-debugging/)
 - [Why Object.keys doesn&#39;t and shouldn&#39;t return &lpar;keyof T&rpar;[]](https://vladimirzdrazil.com/posts/object-keys-keyof-t/)
 - [The AHA principle: Avoid hasty abstractions](https://vladimirzdrazil.com/posts/aha-principle/)
-- [Links from the past few weeks &lpar;Nov 30, 2022&rpar;](https://vladimirzdrazil.com/posts/2022-11-30-links/)
 <!-- BLOG-POST-LIST:END -->
 
 [Click here to see more…](https://vladimirzdrazil.com/)
