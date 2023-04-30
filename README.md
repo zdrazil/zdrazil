@@ -12,8 +12,8 @@ If you fancy seeing more from me then:
 ### My latest blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL: Measure how long a command takes](https://vladimirzdrazil.com/til/terminal/time-command/)
-- [TIL: Squash commits that have a merge-commit in between them](https://vladimirzdrazil.com/til/git/squashing-commits-with-merge-commit-in-between-them/)
+- [Measure how long a command takes](https://vladimirzdrazil.com/til/terminal/time-command/)
+- [Squash commits that have a merge-commit in between them](https://vladimirzdrazil.com/til/git/squashing-commits-with-merge-commit-in-between-them/)
 - [Deep and shallow modules: module design for reduced complexity](https://vladimirzdrazil.com/posts/deep-shallow-modules/)
 - [Binary search debugging: Simplify your debugging process](https://vladimirzdrazil.com/posts/binary-search-debugging/)
 - [Why Object.keys doesn&#39;t and shouldn&#39;t return &lpar;keyof T&rpar;[]](https://vladimirzdrazil.com/posts/object-keys-keyof-t/)
