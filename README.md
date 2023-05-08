@@ -16,7 +16,7 @@ If you fancy seeing more from me then:
 - [Option A vs A | null](https://vladimirzdrazil.com/posts/option-a-a-null/)
 - [Measure how long a command takes](https://vladimirzdrazil.com/til/terminal/time-command/)
 - [Squash commits that have a merge-commit in between them](https://vladimirzdrazil.com/til/git/squashing-commits-with-merge-commit-in-between-them/)
-- [Deep and shallow modules: module design for reduced complexity](https://vladimirzdrazil.com/posts/deep-shallow-modules/)
+- [Deep and shallow modules: Module design for reduced complexity](https://vladimirzdrazil.com/posts/deep-shallow-modules/)
 <!-- BLOG-POST-LIST:END -->
 
 [Click here to see more…](https://vladimirzdrazil.com/)
