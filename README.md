@@ -12,7 +12,11 @@ If you fancy seeing more from me then:
 ### My latest blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Option A vs A | null](https://vladimirzdrazil.com/posts/option-a-a-null/)
+- [Deep and shallow modules: Module design for reduced complexity](https://vladimirzdrazil.com/posts/deep-shallow-modules/)
+- [Binary search debugging: Simplify your debugging process](https://vladimirzdrazil.com/posts/binary-search-debugging/)
+- [Why Object.keys doesn&#39;t and shouldn&#39;t return &lpar;keyof T&rpar;[]](https://vladimirzdrazil.com/posts/object-keys-keyof-t/)
+- [The AHA principle: Avoid hasty abstractions](https://vladimirzdrazil.com/posts/aha-principle/)
 <!-- BLOG-POST-LIST:END -->
 
 [Click here to see more posts…](https://vladimirzdrazil.com/)
