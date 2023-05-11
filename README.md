@@ -5,19 +5,22 @@
 If you fancy seeing more from me then:
 
 - Check out my [blog](https://vladimirzdrazil.com/) 📝
-- Here's my [RSS feed](https://vladimirzdrazil.com/index.xml) 📝🔔
+- Here's my [RSS feed](https://vladimirzdrazil.com/index.xml) and [RSS feed for TIL](https://vladimirzdrazil.com/categories/til/index.xml) 📝🔔
 - Follow me on [Twitter](https://twitter.com/vlzdr) or [Mastodon](https://mastodon.social/@vlzdr) 💬
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/vladimirzdrazil) 👔
 
 ### My latest blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Option A vs A | null](https://vladimirzdrazil.com/posts/option-a-a-null/)
 - [Deep and shallow modules: Module design for reduced complexity](https://vladimirzdrazil.com/posts/deep-shallow-modules/)
 - [Binary search debugging: Simplify your debugging process](https://vladimirzdrazil.com/posts/binary-search-debugging/)
 - [Why Object.keys doesn&#39;t and shouldn&#39;t return &lpar;keyof T&rpar;[]](https://vladimirzdrazil.com/posts/object-keys-keyof-t/)
 - [The AHA principle: Avoid hasty abstractions](https://vladimirzdrazil.com/posts/aha-principle/)
 <!-- BLOG-POST-LIST:END -->
+
+[Click here to see more posts…](https://vladimirzdrazil.com/)
 
 ### My latest TIL posts
 
@@ -29,7 +32,7 @@ If you fancy seeing more from me then:
 - [Git REPL](https://vladimirzdrazil.com/til/git/git-repl/)
 <!-- TIL-POST-LIST:END -->
 
-[Click here to see more…](https://vladimirzdrazil.com/)
+[Click here to see more TIL…](https://vladimirzdrazil.com/til/)
 
 <h3 align="left">Languages, libraries and tools I use on a daily basis</h3>
 
