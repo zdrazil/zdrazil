@@ -13,11 +13,6 @@ If you fancy seeing more from me then:
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Option A vs A | null](https://vladimirzdrazil.com/posts/option-a-a-null/)
-- [Deep and shallow modules: Module design for reduced complexity](https://vladimirzdrazil.com/posts/deep-shallow-modules/)
-- [Binary search debugging: Simplify your debugging process](https://vladimirzdrazil.com/posts/binary-search-debugging/)
-- [Why Object.keys doesn&#39;t and shouldn&#39;t return &lpar;keyof T&rpar;[]](https://vladimirzdrazil.com/posts/object-keys-keyof-t/)
-- [The AHA principle: Avoid hasty abstractions](https://vladimirzdrazil.com/posts/aha-principle/)
 <!-- BLOG-POST-LIST:END -->
 
 [Click here to see more posts…](https://vladimirzdrazil.com/)
@@ -25,11 +20,7 @@ If you fancy seeing more from me then:
 ### My latest TIL posts
 
 <!-- TIL-POST-LIST:START -->
-- [Email this bookmarklet](https://vladimirzdrazil.com/til/bookmarking/bookmarking-via-email/)
-- [Git diff vs git log: When to use two dots vs three dots](https://vladimirzdrazil.com/til/git/difference-between-two-three-dots/)
-- [Measure how long a command takes](https://vladimirzdrazil.com/til/terminal/time-command/)
-- [Squash commits that have a merge-commit in between them](https://vladimirzdrazil.com/til/git/squashing-commits-with-merge-commit-in-between-them/)
-- [Git REPL](https://vladimirzdrazil.com/til/git/git-repl/)
+
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/til/)
