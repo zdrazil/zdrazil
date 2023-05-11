@@ -3,13 +3,19 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every day at 9:00 AM
-    - cron: '0 9 * * *'
+    - cron: "0 9 * * *"
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@8f4b7f84864484a7bf31766abe9204da3cbe65b3
-      - uses: gautamkrishnar/blog-post-workflow@46af00b82fdb135b30b92fefb6e977d2627373a0
+      - uses: actions/checkout@8e5e7e5ab8b370d6c329ec480221332ada57f0ab
+      - uses: gautamkrishnar/blog-post-workflow@df7a546e413f4205b922fe88c35ebe6705b2e2bd
         with:
-          feed_list: 'https://vladimirzdrazil.com/index.xml'
+          commit_message: "update with the latest blog posts"
+          feed_list: "https://vladimirzdrazil.com/index.xml"
+      - uses: gautamkrishnar/blog-post-workflow@df7a546e413f4205b922fe88c35ebe6705b2e2bd
+        with:
+          comment_tag_name: "TIL-POST-LIST"
+          commit_message: "update with the latest TIL posts"
+          feed_list: "https://vladimirzdrazil.com/categories/til/index.xml"

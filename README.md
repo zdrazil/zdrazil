@@ -19,6 +19,12 @@ If you fancy seeing more from me then:
 - [The AHA principle: Avoid hasty abstractions](https://vladimirzdrazil.com/posts/aha-principle/)
 <!-- BLOG-POST-LIST:END -->
 
+### My latest TIL posts
+
+<!-- TIL-POST-LIST:START -->
+
+<!-- TIL-POST-LIST:END -->
+
 [Click here to see more…](https://vladimirzdrazil.com/)
 
 <h3 align="left">Languages, libraries and tools I use on a daily basis</h3>
