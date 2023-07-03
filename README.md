@@ -24,11 +24,11 @@ If you fancy seeing more from me then:
 ### My latest TIL posts
 
 <!-- TIL-POST-LIST:START -->
+- [Programming as theory building &lpar;1985&rpar;](https://vladimirzdrazil.com/til/programming/programming-as-theory-building/)
 - [Big ball of mud &lpar;1999&rpar;](https://vladimirzdrazil.com/til/programming/big-ball-of-mud/)
 - [Enshittification](https://vladimirzdrazil.com/til/internet/enshittification/)
 - [Cunningham’s law](https://vladimirzdrazil.com/til/internet/cunningham-law/)
 - [The source code is the design](https://vladimirzdrazil.com/til/programming/code-is-design/)
-- [Email this bookmarklet](https://vladimirzdrazil.com/til/bookmarking/bookmarking-via-email/)
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/til/)
