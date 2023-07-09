@@ -24,11 +24,11 @@ If you fancy seeing more from me then:
 ### My latest TIL posts
 
 <!-- TIL-POST-LIST:START -->
-- [Forgotten ideas in computer science &lpar;2018&rpar;](https://vladimirzdrazil.com/til/computer-science/forgotten-ideas-in-computer-science/)
-- [Web scalability for startup engineers by Artur Ejsmont &lpar;2015&rpar;](https://vladimirzdrazil.com/til/software-architecture/web-scalability-for-startup-engineers/)
-- [Programming paradigms for dummies &lpar;2009&rpar;](https://vladimirzdrazil.com/til/programming/programming-paradigms-for-dummies/)
-- [Programming as theory building &lpar;1985&rpar;](https://vladimirzdrazil.com/til/programming/programming-as-theory-building/)
-- [Big ball of mud &lpar;1999&rpar;](https://vladimirzdrazil.com/til/programming/big-ball-of-mud/)
+- [Web scalability for startup engineers &lpar;2015&rpar; — Artur Ejsmont](https://vladimirzdrazil.com/til/software-architecture/web-scalability-for-startup-engineers/)
+- [Programming as theory building &lpar;1985&rpar; — Peter Naur](https://vladimirzdrazil.com/til/programming/programming-as-theory-building/)
+- [Big ball of mud &lpar;1999&rpar; — Brian Foote &amp; Joseph Yoder](https://vladimirzdrazil.com/til/programming/big-ball-of-mud/)
+- [Enshittification](https://vladimirzdrazil.com/til/internet/enshittification/)
+- [Cunningham’s law](https://vladimirzdrazil.com/til/internet/cunningham-law/)
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/til/)
