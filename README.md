@@ -24,11 +24,11 @@ If you fancy seeing more from me then:
 ### My latest TIL posts
 
 <!-- TIL-POST-LIST:START -->
+- [git push --force-with-lease --force-if-includes is a safer alternative to git push --force](https://vladimirzdrazil.com/til/git/git-force-if-includes/)
+- [fish abbreviations](https://vladimirzdrazil.com/til/fish/fish-abbreviations/)
+- [Efficiently adding a new file to the file explorer tree using a shortcut](https://vladimirzdrazil.com/til/visual-studio-code/efficiently-adding-a-new-file-to-the-file-explorer-tree-using-a-shortcut/)
+- [Using light/dark theme in delta based on system settings](https://vladimirzdrazil.com/til/git/git-delta-system-theme/)
 - [Web scalability for startup engineers &lpar;2015&rpar; — Artur Ejsmont](https://vladimirzdrazil.com/til/software-architecture/web-scalability-for-startup-engineers/)
-- [Programming as theory building &lpar;1985&rpar; — Peter Naur](https://vladimirzdrazil.com/til/programming/programming-as-theory-building/)
-- [Big ball of mud &lpar;1999&rpar; — Brian Foote &amp; Joseph Yoder](https://vladimirzdrazil.com/til/programming/big-ball-of-mud/)
-- [Enshittification](https://vladimirzdrazil.com/til/internet/enshittification/)
-- [Cunningham’s law](https://vladimirzdrazil.com/til/internet/cunningham-law/)
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/til/)
