@@ -23,6 +23,8 @@ If you fancy seeing more from me then:
 
 ### My latest TIL posts
 
+TILs are things that I’ve discovered or picked up along the way. They’re more like notes than full blog posts.
+
 <!-- TIL-POST-LIST:START -->
 - [Use git checkout -- to limit the autocompletions to files only](https://vladimirzdrazil.com/til/git/git-checkout-double-dash-better-completions/)
 - [Tips for grokking Git](https://vladimirzdrazil.com/til/git/grokking-git/)
