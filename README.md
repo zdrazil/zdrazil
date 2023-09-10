@@ -5,7 +5,7 @@
 If you fancy seeing more from me then:
 
 - Check out my [blog](https://vladimirzdrazil.com/) 📝
-- Here's my [RSS feed](https://vladimirzdrazil.com/index.xml) and [RSS feed for TIL](https://vladimirzdrazil.com/categories/til/index.xml) 📝🔔
+- Here’s my [RSS feed](https://vladimirzdrazil.com/index.xml) and [RSS feed for TIL](https://vladimirzdrazil.com/categories/til/index.xml) 📝🔔
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/vladimirzdrazil) 👔
 
 ### My latest blogs posts
@@ -41,7 +41,7 @@ TILs are things that I’ve discovered or picked up along the way. They’re mor
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Jest](https://jestjs.io), [webpack](https://webpack.js.org)
 
-### Languages and libraries I've dabbled in and would like to explore more
+### Languages and libraries I’ve dabbled in and would like to explore more
 
 - [Haskell](https://www.haskell.org/), [Clojure](https://clojure.org/)
 - [fish](https://fishshell.com/)
