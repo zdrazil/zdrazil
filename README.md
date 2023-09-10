@@ -19,7 +19,7 @@ If you fancy seeing more from me then:
 - [Why Object.keys doesn’t and shouldn’t return &lpar;keyof T&rpar;[]](https://vladimirzdrazil.com/posts/object-keys-keyof-t/)
 <!-- BLOG-POST-LIST:END -->
 
-[Click here to see more posts…](https://vladimirzdrazil.com/)
+[Click here to see more posts…](https://vladimirzdrazil.com/#more-posts)
 
 ### My latest TIL posts
 
@@ -31,7 +31,7 @@ If you fancy seeing more from me then:
 - [Efficiently adding a new file to the file explorer tree using a shortcut](https://vladimirzdrazil.com/til/visual-studio-code/efficiently-adding-a-new-file-to-the-file-explorer-tree-using-a-shortcut/)
 <!-- TIL-POST-LIST:END -->
 
-[Click here to see more TIL…](https://vladimirzdrazil.com/til/)
+[Click here to see more TIL…](https://vladimirzdrazil.com/#more-tils)
 
 ### Languages and libraries I use on a daily basis
 
