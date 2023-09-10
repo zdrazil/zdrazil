@@ -43,11 +43,12 @@ If you fancy seeing more from me then:
 ### Languages and libraries I've dabbled in and would like to explore more
 
 - [Haskell](https://www.haskell.org/), [Clojure](https://clojure.org/)
-- [fish](https://fishshell.com/), [Bash](https://www.gnu.org/software/bash/)
+- [fish](https://fishshell.com/)
 - [Node.js](https://nodejs.org), [Express](https://expressjs.com)
 
 ### Languages I put on the backburner
 
+- [Bash](https://www.gnu.org/software/bash/)
 - [Hugo](https://gohugo.io/)
 - [Python](https://www.python.org)
 - [Swift](https://developer.apple.com/swift/)
