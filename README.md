@@ -6,7 +6,6 @@ If you fancy seeing more from me then:
 
 - Check out my [blog](https://vladimirzdrazil.com/) 📝
 - Here's my [RSS feed](https://vladimirzdrazil.com/index.xml) and [RSS feed for TIL](https://vladimirzdrazil.com/categories/til/index.xml) 📝🔔
-- Follow me on [Mastodon](https://mastodon.social/@vlzdr) 💬
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/vladimirzdrazil) 👔
 
 ### My latest blogs posts
