@@ -18,4 +18,4 @@ jobs:
         with:
           comment_tag_name: "TIL-POST-LIST"
           commit_message: "update with the latest TIL posts"
-          feed_list: "https://vladimirzdrazil.com/categories/til/index.xml"
+          feed_list: "https://vladimirzdrazil.com/til.xml"
