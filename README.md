@@ -25,11 +25,11 @@ If you fancy seeing more from me then:
 TILs are things that I’ve discovered or picked up along the way. They’re more like notes than full blog posts.
 
 <!-- TIL-POST-LIST:START -->
+- [Yarn workspace fish completions](https://vladimirzdrazil.com/til/fish/yarn-workspace-fish-completions/)
 - [Use git checkout -- to limit the autocompletions to files only](https://vladimirzdrazil.com/til/git/git-checkout-double-dash-better-completions/)
 - [Tips for grokking Git](https://vladimirzdrazil.com/til/git/grokking-git/)
 - [git push --force-with-lease --force-if-includes is a safer alternative to git push --force](https://vladimirzdrazil.com/til/git/git-force-if-includes/)
 - [fish abbreviations](https://vladimirzdrazil.com/til/fish/fish-abbreviations/)
-- [Efficiently adding a new file to the file explorer tree using a shortcut](https://vladimirzdrazil.com/til/visual-studio-code/efficiently-adding-a-new-file-to-the-file-explorer-tree-using-a-shortcut/)
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/#more-tils)
