@@ -25,11 +25,11 @@ If you fancy seeing more from me then:
 TILs are things that I’ve discovered or picked up along the way. They’re more like notes than full blog posts.
 
 <!-- TIL-POST-LIST:START -->
-- [Lehman’s laws of software evolution](https://vladimirzdrazil.com/til/programming/lehman-laws/)
-- [Negative indexing with at&lpar;&rpar; method](https://vladimirzdrazil.com/til/javascript/array-at/)
-- [Yarn workspace fish completions](https://vladimirzdrazil.com/til/fish/yarn-workspace-fish-completions/)
-- [Use git checkout -- to limit the autocompletions to files only](https://vladimirzdrazil.com/til/git/git-checkout-double-dash-better-completions/)
-- [Tips for grokking Git](https://vladimirzdrazil.com/til/git/grokking-git/)
+- [Aspect-oriented programming](https://vladimirzdrazil.com/til/programming/aspect-oriented-programming/)
+- [Barrel files slow down JavaScript tooling](https://vladimirzdrazil.com/til/javascript/barrel-files-are-slow/)
+- [Barrel files](https://vladimirzdrazil.com/til/javascript/barrel-files/)
+- [Exercises in programming style &lpar;2014&rpar; - Cristina Videira Lopes](https://vladimirzdrazil.com/til/programming/exercises-in-programming-style/)
+- [Analyzing code data with git and Code Maat](https://vladimirzdrazil.com/til/programming/analyzing-data-from-git/)
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/#more-tils)
