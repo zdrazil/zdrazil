@@ -25,11 +25,11 @@ If you fancy seeing more from me then:
 TILs are things that I’ve discovered or picked up along the way. They’re more like notes than full blog posts.
 
 <!-- TIL-POST-LIST:START -->
+- [shfmt can simplify your shell scripts](https://vladimirzdrazil.com/til/shell/shfmt-simplify/)
 - [Aspect-oriented programming](https://vladimirzdrazil.com/til/programming/aspect-oriented-programming/)
 - [Barrel files slow down JavaScript tooling](https://vladimirzdrazil.com/til/javascript/barrel-files-are-slow/)
 - [Barrel files](https://vladimirzdrazil.com/til/javascript/barrel-files/)
 - [Exercises in programming style &lpar;2014&rpar; - Cristina Videira Lopes](https://vladimirzdrazil.com/til/programming/exercises-in-programming-style/)
-- [Analyzing code data with git and Code Maat](https://vladimirzdrazil.com/til/programming/analyzing-data-from-git/)
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/#more-tils)
