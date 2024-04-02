@@ -25,11 +25,11 @@ If you fancy seeing more from me then:
 TILs are things that I’ve discovered or picked up along the way. They’re more like notes than full blog posts.
 
 <!-- TIL-POST-LIST:START -->
+- [MongoDB is web scale &lpar;2010&rpar;](https://vladimirzdrazil.com/til/programming-humor/mongo-db-is-web-scale/)
+- [Car allergic to vanilla ice cream and other oddities](https://vladimirzdrazil.com/til/tech-oddities/car-allergic-to-vanilla-ice-cream/)
 - [Mnemonic for database normal forms](https://vladimirzdrazil.com/til/databases/relational-database-normal-forms-mnemonic/)
 - [Vertical slice architecture](https://vladimirzdrazil.com/til/software-architecture/vertical-slice-architecture/)
 - [SQL antipatterns &lpar;2022&rpar; - Bill Karwin](https://vladimirzdrazil.com/til/programming/sql-antipatterns/)
-- [HTTP error codes - the short version](https://vladimirzdrazil.com/til/network/http-codes-short-version/)
-- [Building microservices &lpar;2021&rpar; - Sam Newman](https://vladimirzdrazil.com/til/software-architecture/building-microservices/)
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/#more-tils)
