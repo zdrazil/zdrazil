@@ -25,11 +25,11 @@ If you fancy seeing more from me then:
 TILs are things that I’ve discovered or picked up along the way. They’re more like notes than full blog posts.
 
 <!-- TIL-POST-LIST:START -->
+- [When &#39;Just&#39; oversimplifies complexity](https://vladimirzdrazil.com/til/programming/when-just-oversimplifies-complexity/)
+- [Writing a Unix clone in about a month](https://vladimirzdrazil.com/til/programming/writing-unix-clone-in-about-a-month/)
 - [URL.canParse and URL.parse and how new URL&lpar;&#39;next:&#39;&rpar; doesn’t throw](https://vladimirzdrazil.com/til/javascript/url-parse/)
 - [The curse of the excluded middle &lpar;2014&rpar; - Erik Meijer](https://vladimirzdrazil.com/til/programming/curse-of-excluded-middle/)
 - [MongoDB is web scale &lpar;2010&rpar;](https://vladimirzdrazil.com/til/programming-humor/mongo-db-is-web-scale/)
-- [Car allergic to vanilla ice cream and other oddities](https://vladimirzdrazil.com/til/tech-oddities/car-allergic-to-vanilla-ice-cream/)
-- [Mnemonic for database normal forms](https://vladimirzdrazil.com/til/databases/relational-database-normal-forms-mnemonic/)
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/#more-tils)
