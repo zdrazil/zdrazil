@@ -25,11 +25,11 @@ If you fancy seeing more from me then:
 TILs are things that I’ve discovered or picked up along the way. They’re more like notes than full blog posts.
 
 <!-- TIL-POST-LIST:START -->
+- [Abstraction, intuition, and the monad tutorial fallacy](https://vladimirzdrazil.com/til/learning/abstraction-intuition-and-monad-tutorial-falacy/)
 - [Why I&#39;m still not convinced that I should avoid GraphQL](https://vladimirzdrazil.com/til/backend/why-im-not-convinced-i-should-avoid-graphql/)
 - [When &#39;Just&#39; oversimplifies complexity](https://vladimirzdrazil.com/til/programming/when-just-oversimplifies-complexity/)
 - [Writing a Unix clone in about a month](https://vladimirzdrazil.com/til/programming/writing-unix-clone-in-about-a-month/)
 - [URL.canParse and URL.parse and how new URL&lpar;&#39;next:&#39;&rpar; doesn’t throw](https://vladimirzdrazil.com/til/javascript/url-parse/)
-- [The curse of the excluded middle &lpar;2014&rpar; - Erik Meijer](https://vladimirzdrazil.com/til/programming/curse-of-excluded-middle/)
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/#more-tils)
