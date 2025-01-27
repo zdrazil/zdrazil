@@ -25,11 +25,11 @@ If you fancy seeing more from me then:
 TILs are things that I’ve discovered or picked up along the way. They’re more like notes than full blog posts.
 
 <!-- TIL-POST-LIST:START -->
+- [Anthropic has a new citations API](https://vladimirzdrazil.com/til/llm/how-to-build-authentication-from-scratch-in-node-js/)
+- [How to build authentication from scratch in Node.js](https://vladimirzdrazil.com/til/backend/how-to-build-authentication-from-scratch-in-node-js/)
 - [Effects, capabilities, and boxes: From scope-based reasoning to type-based reasoning and back &lpar;2022&rpar;](https://vladimirzdrazil.com/til/programming/effects-capabilities-boxes/)
 - [Abstraction, intuition, and the monad tutorial fallacy](https://vladimirzdrazil.com/til/learning/abstraction-intuition-and-monad-tutorial-falacy/)
 - [Why I&#39;m still not convinced that I should avoid GraphQL](https://vladimirzdrazil.com/til/backend/why-im-not-convinced-i-should-avoid-graphql/)
-- [When &#39;Just&#39; oversimplifies complexity](https://vladimirzdrazil.com/til/programming/when-just-oversimplifies-complexity/)
-- [Writing a Unix clone in about a month](https://vladimirzdrazil.com/til/programming/writing-unix-clone-in-about-a-month/)
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/#more-tils)
