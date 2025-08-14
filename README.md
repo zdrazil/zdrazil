@@ -25,11 +25,11 @@ If you fancy seeing more from me then:
 TILs are things that I’ve discovered or picked up along the way. They’re more like notes than full blog posts.
 
 <!-- TIL-POST-LIST:START -->
+- [Treating AI as Copilot, Not Driver](https://vladimirzdrazil.com/til/llm/treating-ai-as-copilot-not-driver/)
 - [The Copilot delusion &lpar;2025&rpar;](https://vladimirzdrazil.com/til/llm/the-copilot-delusion/)
 - [How Core Git Developers Configure Git](https://vladimirzdrazil.com/til/git/git-reuse-recorded-resolution-of-conflicts%20copy/)
 - [Anthropic has a new citations API](https://vladimirzdrazil.com/til/llm/anthropic-citations-api-announcement/)
 - [How to build authentication from scratch in Node.js](https://vladimirzdrazil.com/til/backend/how-to-build-authentication-from-scratch-in-node-js/)
-- [Effects, capabilities, and boxes: From scope-based reasoning to type-based reasoning and back &lpar;2022&rpar;](https://vladimirzdrazil.com/til/programming/effects-capabilities-boxes/)
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/#more-tils)
