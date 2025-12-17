@@ -11,11 +11,11 @@ If you fancy seeing more from me then:
 ### My latest blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Current LLM tooling makes understanding optional](https://vladimirzdrazil.com/posts/current-llm-tooling-makes-understanding-optional/)
 - [You don’t need that complexity: A fresh look at your project](https://vladimirzdrazil.com/posts/you-dont-need-that-complexity/)
 - [Option A vs A | null](https://vladimirzdrazil.com/posts/option-a-a-null/)
 - [Deep and shallow modules: Module design for reduced complexity](https://vladimirzdrazil.com/posts/deep-shallow-modules/)
 - [Binary search debugging: Simplify your debugging process](https://vladimirzdrazil.com/posts/binary-search-debugging/)
-- [Why Object.keys doesn’t and shouldn’t return &lpar;keyof T&rpar;[]](https://vladimirzdrazil.com/posts/object-keys-keyof-t/)
 <!-- BLOG-POST-LIST:END -->
 
 [Click here to see more posts…](https://vladimirzdrazil.com/#more-posts)
