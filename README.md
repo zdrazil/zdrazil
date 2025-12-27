@@ -11,11 +11,11 @@ If you fancy seeing more from me then:
 ### My latest blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing APIs for stateful flows: Don&#39;t make clients guess or obey](https://vladimirzdrazil.com/posts/designing-apis-for-stateful-flows/)
 - [Current LLM tooling makes understanding optional](https://vladimirzdrazil.com/posts/current-llm-tooling-makes-understanding-optional/)
 - [You don’t need that complexity: A fresh look at your project](https://vladimirzdrazil.com/posts/you-dont-need-that-complexity/)
 - [Option A vs A | null](https://vladimirzdrazil.com/posts/option-a-a-null/)
 - [Deep and shallow modules: Module design for reduced complexity](https://vladimirzdrazil.com/posts/deep-shallow-modules/)
-- [Binary search debugging: Simplify your debugging process](https://vladimirzdrazil.com/posts/binary-search-debugging/)
 <!-- BLOG-POST-LIST:END -->
 
 [Click here to see more posts…](https://vladimirzdrazil.com/#more-posts)
