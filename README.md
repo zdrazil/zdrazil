@@ -27,9 +27,9 @@ TILs are things that I’ve discovered or picked up along the way. They’re mor
 <!-- TIL-POST-LIST:START -->
 - [Treating AI as Copilot, Not Driver](https://vladimirzdrazil.com/til/llm/treating-ai-as-copilot-not-driver/)
 - [The Copilot delusion &lpar;2025&rpar;](https://vladimirzdrazil.com/til/llm/the-copilot-delusion/)
+- [LLM prompts](https://vladimirzdrazil.com/til/llm/llm-prompts/)
 - [How Core Git Developers Configure Git](https://vladimirzdrazil.com/til/git/git-reuse-recorded-resolution-of-conflicts%20copy/)
 - [Anthropic has a new citations API](https://vladimirzdrazil.com/til/llm/anthropic-citations-api-announcement/)
-- [How to build authentication from scratch in Node.js](https://vladimirzdrazil.com/til/backend/how-to-build-authentication-from-scratch-in-node-js/)
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/#more-tils)
