@@ -28,8 +28,8 @@ TILs are things that I’ve discovered or picked up along the way. They’re mor
 - [Sean Goedecke - How I Estimate Work as a Staff Software Engineer](https://vladimirzdrazil.com/til/programming/goedecke-how-to-estimate/)
 - [Treating AI as Copilot, Not Driver](https://vladimirzdrazil.com/til/llm/treating-ai-as-copilot-not-driver/)
 - [The Copilot delusion &lpar;2025&rpar;](https://vladimirzdrazil.com/til/llm/the-copilot-delusion/)
+- [LLM steering framework](https://vladimirzdrazil.com/til/llm/llm-steering-framework/)
 - [LLM prompts](https://vladimirzdrazil.com/til/llm/llm-prompts/)
-- [How Core Git Developers Configure Git](https://vladimirzdrazil.com/til/git/git-reuse-recorded-resolution-of-conflicts%20copy/)
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/#more-tils)
