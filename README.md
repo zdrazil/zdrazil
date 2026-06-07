@@ -4,9 +4,9 @@
 
 If you fancy seeing more from me then:
 
-- Check out my [blog](https://vladimirzdrazil.com/) 📝
-- Here’s my [RSS feed](https://vladimirzdrazil.com/index.xml) and [RSS feed for TIL](https://vladimirzdrazil.com/categories/til/index.xml) 📝🔔
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/vladimirzdrazil) 👔
+- Check out my [blog](https://vladimirzdrazil.com/)
+- Here’s my [RSS feed](https://vladimirzdrazil.com/index.xml) and [RSS feed for TIL](https://vladimirzdrazil.com/categories/til/index.xml)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/vladimirzdrazil)
 
 ### My latest blogs posts
 
