@@ -9,12 +9,12 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@8e5e7e5ab8b370d6c329ec480221332ada57f0ab
-      - uses: gautamkrishnar/blog-post-workflow@df7a546e413f4205b922fe88c35ebe6705b2e2bd
+      - uses: actions/checkout@v6
+      - uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597
         with:
           commit_message: "update with the latest blog posts"
           feed_list: "https://vladimirzdrazil.com/index.xml"
-      - uses: gautamkrishnar/blog-post-workflow@df7a546e413f4205b922fe88c35ebe6705b2e2bd
+      - uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597
         with:
           comment_tag_name: "TIL-POST-LIST"
           commit_message: "update with the latest TIL posts"
