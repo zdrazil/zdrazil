@@ -25,11 +25,11 @@ If you fancy seeing more from me then:
 TILs are things that I’ve discovered or picked up along the way. They’re more like notes than full blog posts.
 
 <!-- TIL-POST-LIST:START -->
+- [Scott Tolinski - What is AI coding doing to us?](https://vladimirzdrazil.com/til/llm/scott-tolinski-what-is-ai-coding-to-us/)
 - [Birgitta Boeckeler - State of Play: AI Coding Assistants - AI Native DevCon June 2026](https://vladimirzdrazil.com/til/llm/2026-07-state-of-coding-tools/)
 - [The social contract of writing](https://vladimirzdrazil.com/til/llm/the-social-contract-of-writing/)
 - [Sean Goedecke - How I Estimate Work as a Staff Software Engineer](https://vladimirzdrazil.com/til/programming/goedecke-how-to-estimate/)
 - [Treating AI as Copilot, Not Driver](https://vladimirzdrazil.com/til/llm/treating-ai-as-copilot-not-driver/)
-- [The Copilot delusion &lpar;2025&rpar;](https://vladimirzdrazil.com/til/llm/the-copilot-delusion/)
 <!-- TIL-POST-LIST:END -->
 
 [Click here to see more TIL…](https://vladimirzdrazil.com/#more-tils)
